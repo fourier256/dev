@@ -1,0 +1,40 @@
+2025_1_19 22:32:38telegram send message failed : 
+bid order at 1507 is complete
+ASK order at 1508.0
+BID order at 1506.0
+2025_1_19 22:37:53telegram send message failed : 
+ask order at 1511 is complete
+ASK order at 1512.0
+BID order at 1510.0
+2025_1_19 22:47:21telegram send message failed : 
+ask order at 1514 is complete
+HOLD(=7000.825665919998) <= 2 AMOUNT(=14000)
+ASK order at 1516.0
+BID order at 1513.0
+2025_1_19 22:52:15telegram send message failed : 
+bid order at 1515 is complete
+HOLD(=0.8256659199996648) <= 2 AMOUNT(=14000)
+ASK order at 1517.0
+BID order at 1514.0
+2025_1_19 22:57:33telegram send message failed : 
+bid order at 1512 is complete
+ASK order at 1513.0
+BID order at 1511.0
+2025_1_19 23:0:5telegram send message failed : 
+GRID_STB still alive
+KP = 1511.0
+CENTER = 1503.265
+STD = 4.411
+RANGE = 4
+MIN_HOLD = 21000
+HOLD = 42000.0
+MAX_HOLD = 56000
+TOTAL = 240345137
+2025_1_19 23:0:24telegram send message failed : 
+ask order at 1512 is complete
+ASK order at 1513.0
+BID order at 1511.0
+2025_3_3 3:56:47telegram send message failed : 
+bid order at 1494 is complete
+ASK order at 1495.0
+BID order at 1493.0

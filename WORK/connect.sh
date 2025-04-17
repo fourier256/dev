@@ -1,0 +1,1 @@
+ssh -i ./MY_EC2_KEY.pem ubuntu@43.201.147.78
